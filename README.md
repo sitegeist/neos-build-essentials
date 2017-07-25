@@ -2,4 +2,4 @@
 
 > A frontend build setup for Neos CMS projects
 
-TBD.
+This project has been deprecated in favor of: https://github.com/sitegeist/Sitegeist.Excalibur
